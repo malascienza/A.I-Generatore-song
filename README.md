@@ -14,3 +14,6 @@ Il metodo generateSong() prende questi parametri di input, utilizza il modello S
 Il metodo generateUpbeatSong() genera il testo per una canzone allegra con uno stato d'animo positivo. Il metodo generateSadSong() genera il testo per una canzone triste con uno stato d'animo negativo. Il metodo generateLoveSong() genera il testo per una canzone d'amore con uno stato d'animo positivo.
 
 In generale, questo script può essere utilizzato come punto di partenza per un'applicazione generatrice di canzoni in grado di generare testi per diverse categorie di canzoni in base all'input dell'utente.
+
+
+live version: https://answer.analyticsweb.it/generatoremusica/
