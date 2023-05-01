@@ -1,4 +1,4 @@
-# A.I.
+
 This script defines a class called SongGenerator with a constructor method and three private methods to generate lyrics for three different categories of songs: upbeat, sad, and love. It uses the PHP Machine Learning library (Phpml) to create a Support Vector Machine (SVM) model for classifying songs into these categories based on three input parameters: mood, style, and instrument.
 
 The generateSong() method takes these input parameters, uses the SVM model to predict the category of the song, and then generates the lyrics for the corresponding category using the appropriate private method. The method returns the generated lyrics.
